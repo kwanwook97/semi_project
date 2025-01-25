@@ -15,7 +15,14 @@ FitMate는 헬스 MBTI 테스트를 통해 사용자가 자신의 운동 성향�
 
 ---
 
+## 🖼️ 구현 화면
+
+https://github.com/user-attachments/assets/bf6e3305-0e4a-4065-ad86-e1075c537255
+
+
+<!--
 ## 📂 프로젝트 상세 정보
 
 프로젝트에 대한 자세한 내용은 아래 링크에서 확인하세요:  
 👉 [포트폴리오 확인하기](https://www.canva.com/design/DAGcplpMzWM/RpfGAANtxtJfby_qk12vrg/edit)
+-->
