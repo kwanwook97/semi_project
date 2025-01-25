@@ -6,20 +6,18 @@ FitMate는 헬스 MBTI 테스트를 통해 사용자가 자신의 운동 성향�
 
 ## 🛠️ 기술 스택
 
-<img src="https://github.com/user-attachments/assets/635372c2-3e34-42e0-864e-932e16ca35f8" alt="image" width="400">
+<img src="https://github.com/user-attachments/assets/635372c2-3e34-42e0-864e-932e16ca35f8" alt="image" width="800">
 
 ---
 ## 📊 ERD (Entity-Relationship Diagram)
 
-<img src="https://github.com/user-attachments/assets/f2dd186a-b680-4f6c-abbb-54fa1bbc76f9" alt="image" width="400">
+<img src="https://github.com/user-attachments/assets/f2dd186a-b680-4f6c-abbb-54fa1bbc76f9" alt="image" width="800">
 
 ---
 
 ## 🖼️ 구현 화면
 
-https://github.com/user-attachments/assets/aa4837f4-8222-48bd-9ee3-513a4404cb73
-
-<img src="https://github.com/user-attachments/assets/e61a8d68-6611-4d12-974d-71a169dced46" alt="ezgif com-video-to-gif-converter" width="400">
+<img src="https://github.com/user-attachments/assets/e61a8d68-6611-4d12-974d-71a169dced46" alt="ezgif com-video-to-gif-converter" width="800">
 
 <!--
 ## 📂 프로젝트 상세 정보
