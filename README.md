@@ -17,8 +17,7 @@ FitMate는 헬스 MBTI 테스트를 통해 사용자가 자신의 운동 성향�
 
 ## 🖼️ 구현 화면
 
-<iframe src="https://o365halla-my.sharepoint.com/personal/201632002_hu_halla_ac_kr/_layouts/15/embed.aspx?UniqueId=135544a6-8db7-4325-bc96-c95294e3ac55&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="비디오 프로젝트 4.mp4"></iframe>
-
+https://o365halla-my.sharepoint.com/:v:/r/personal/201632002_hu_halla_ac_kr/Documents/%EB%8F%99%EC%98%81%EC%83%81/Clipchamp/%EB%B9%84%EB%94%94%EC%98%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%204/Exports/%EB%B9%84%EB%94%94%EC%98%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%204.mp4?csf=1&web=1&e=ljwbRz
 
 <!--
 ## 📂 프로젝트 상세 정보
